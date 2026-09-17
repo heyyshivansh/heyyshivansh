@@ -4,6 +4,10 @@
 
 </div>
 
+<p align="center">
+  <img src="./shivansh_github_banner.gif" width="100%" />
+</p>
+
 ---
 
 I'm a B.Tech CSE student who's always been interested in technology and curious about learning how new things work.
